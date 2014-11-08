@@ -20,7 +20,8 @@ public class MainActivity extends Activity {
 		Button submit = (Button)findViewById(R.id.btnSubmit);
 		submit.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
-				message.setText("Bazinga!");	
+				message.setText("Bazinga! Bazinga!");	
+				
 			}
 		});
 	}
