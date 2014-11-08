@@ -1071,6 +1071,7 @@ containing a value of this type.
         public static int ic_launcher=0x7f020057;
     }
     public static final class id {
+        public static int LinearLayout1=0x7f09003c;
         public static int action_bar=0x7f09001c;
         public static int action_bar_activity_content=0x7f090001;
         public static int action_bar_container=0x7f09001b;
@@ -1085,6 +1086,7 @@ containing a value of this type.
         public static int activity_chooser_view_content=0x7f090025;
         public static int always=0x7f09000f;
         public static int beginning=0x7f090016;
+        public static int btnSubmit=0x7f09003e;
         public static int checkbox=0x7f09002d;
         public static int collapseActionView=0x7f090010;
         public static int default_activity_button=0x7f090028;
@@ -1128,6 +1130,7 @@ containing a value of this type.
         public static int tabMode=0x7f090008;
         public static int title=0x7f09002b;
         public static int top_action_bar=0x7f090020;
+        public static int txtMessage=0x7f09003d;
         public static int up=0x7f090021;
         public static int useLogo=0x7f09000e;
         public static int withText=0x7f090013;

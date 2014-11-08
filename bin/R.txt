@@ -233,6 +233,7 @@ int drawable abc_textfield_searchview_holo_light 0x7f020054
 int drawable abc_textfield_searchview_right_holo_dark 0x7f020055
 int drawable abc_textfield_searchview_right_holo_light 0x7f020056
 int drawable ic_launcher 0x7f020057
+int id LinearLayout1 0x7f09003c
 int id action_bar 0x7f09001c
 int id action_bar_activity_content 0x7f090001
 int id action_bar_container 0x7f09001b
@@ -247,6 +248,7 @@ int id action_mode_close_button 0x7f090024
 int id activity_chooser_view_content 0x7f090025
 int id always 0x7f09000f
 int id beginning 0x7f090016
+int id btnSubmit 0x7f09003e
 int id checkbox 0x7f09002d
 int id collapseActionView 0x7f090010
 int id default_activity_button 0x7f090028
@@ -290,6 +292,7 @@ int id submit_area 0x7f090039
 int id tabMode 0x7f090008
 int id title 0x7f09002b
 int id top_action_bar 0x7f090020
+int id txtMessage 0x7f09003d
 int id up 0x7f090021
 int id useLogo 0x7f09000e
 int id withText 0x7f090013
